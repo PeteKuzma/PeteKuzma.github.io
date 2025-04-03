@@ -8,3 +8,5 @@ author_profile: true
 
 CV
 Under construction! Shan't be long now!
+
+(/assets/images/peach-cat-construction-worker.gif)
