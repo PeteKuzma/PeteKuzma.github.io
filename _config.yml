@@ -308,7 +308,7 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      type: 
     values:
       layout: single
       author_profile: true
@@ -340,3 +340,11 @@ defaults:
       layout: single
       author_profile: true
       share: true
+  defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
