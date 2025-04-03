@@ -330,7 +330,7 @@ defaults:
       type: research
     values:
       layout: single
-      author_profile: false
+      author_profile: true
       share: true
   # _CV
   - scope:
@@ -338,7 +338,7 @@ defaults:
       type: CV
     values:
       layout: single
-      author_profile: false
+      author_profile: true
       share: true
   # _talks
   - scope:
@@ -346,5 +346,5 @@ defaults:
       type: talk
     values:
       layout: single
-      author_profile: false
+      author_profile: true
       share: true
