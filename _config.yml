@@ -324,3 +324,27 @@ defaults:
       comments: # true
       share: true
       related: true
+    # _research
+  - scope:
+      path: "/research/"
+      type: research
+    values:
+      layout: single
+      author_profile: false
+      share: true
+  # _CV
+  - scope:
+      path: "/cv/"
+      type: cv
+    values:
+      layout: single
+      author_profile: false
+      share: true
+  # _talks
+  - scope:
+      path: "/talk/"
+      type: talk
+    values:
+      layout: single
+      author_profile: false
+      share: true
