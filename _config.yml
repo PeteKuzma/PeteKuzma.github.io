@@ -19,7 +19,7 @@ locale                   : "en-GB"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Pete Kuzma"
 title_separator          : "-"
-subtitle                 : Astronomer and Data Scientist
+subtitle                 : "Astronomer and Data Scientist"
 name                     : "Pete Kuzma"
 description              : "My personal webpage"
 URL                      : "https://PeteKuzma.github.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
