@@ -3,12 +3,12 @@ main:
   - title: "Home"
     url: /
   - title: "Research"
-    url: /Research/
+    url: /research/
   - title: "CV"
     url: /CV/
   - title: "Publications"
     url: /publications/
   - title: "Talks"
-    url: /press/
+    url: /talks/
   # - title: ""
   #  url: /sandbox/
