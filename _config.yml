@@ -12,14 +12,14 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Site Title"
+title                    : "Pete Kuzma Personal Webpage"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : Astronomer and Data Scientist
 name                     : "Pete Kuzma"
 description              : "My personal webpage"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -113,11 +113,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Pete Kuzma"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Keen on using big data and data science to explore the natural world around us"
+  location         : "Tokyo, Japan"
+  email            : "pete.kuzma@nao.ac.jp"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
