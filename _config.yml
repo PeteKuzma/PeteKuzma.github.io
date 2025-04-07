@@ -118,7 +118,8 @@ author:
   bio              : "Keen on using big data and data science to explore the natural world around us"
   location         : "Tokyo, Japan"
   email            : "pete.kuzma@nao.ac.jp"
-  linkedin: https://www.linkedin.com/in/pete-kuzma
+  linkedin         : https://www.linkedin.com/in/pete-kuzma
+  github           : https://github.com/PeteKuzma 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -134,7 +135,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/PeteKuzma"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
