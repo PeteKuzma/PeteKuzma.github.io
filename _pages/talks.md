@@ -11,4 +11,4 @@ I have given many talks to audiences of varying expertise. I believe science and
 The Milky Way has not always been the size it currently is. Much like humans, it grew to its massive size over time, consuming food. However, in space, food for galaxies is small dwarf galaxies. This talk focuses on one of the aims of my research, searching the outermost regions of the Milky Way for signs of dwarf galaxies that the Milky Way has devoured, and how we can use some the oldest objects in the universe, globular star clusters, to trace those remains.
 
 <iframe width="420" height="315" src="https://www.youtube.com/watch?v=61-Mfi484fQ" frameborder="0" allowfullscreen> </iframe>
-{% include video id="61-Mfi484fQ" provider="youtube" %}
+{% width="480" height="320" include video id="61-Mfi484fQ" provider="youtube" %}
