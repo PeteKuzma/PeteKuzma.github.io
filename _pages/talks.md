@@ -20,5 +20,5 @@ The First People of Australia have a connection to the land which is not well un
 [//]:## CSI: Space - Physics in the Pub
 [//]:Talking in a pub about science is an absolutely wonderful experience. Put a drink in the audience's (or my) hand and the science discussion can flow like no other. The below video is just one example of my presentations at pub talks (others include Astronomy on Tap, and Nerd Nite). Warning, as it is in the pub, this talk contains swearing.
 [//]:{% include video width="480" height="320" id="tghdecYUk_k" provider="youtube" %}
-{% end comment %}
+{% endcomment %}
 
