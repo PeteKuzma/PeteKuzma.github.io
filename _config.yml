@@ -137,6 +137,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "Linked In"
+      icon: "fab fa-fw fa-linkedin"
+      URL: "www.linkedin.com/in/pete-kuzma"
 
 # Site Footer
 footer:
