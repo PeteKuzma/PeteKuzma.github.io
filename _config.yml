@@ -137,7 +137,7 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
-    - label: "Linked In"
+    - label: "LinkedIn"
       icon:  "fa-brands fa-linkedin"
       URL:  "www.linkedin.com/in/pete-kuzma"
 
@@ -162,9 +162,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # URL:
-    - label: "Linked In"
+    - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      URL: "www.linkedin.com/in/pete-kuzma"
+      url: "www.linkedin.com/in/pete-kuzma"
 # checking if I can make text wide
 #classes: wide
 
