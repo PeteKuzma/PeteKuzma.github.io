@@ -118,6 +118,7 @@ author:
   bio              : "Keen on using big data and data science to explore the natural world around us"
   location         : "Tokyo, Japan"
   email            : "pete.kuzma@nao.ac.jp"
+  linkedin: https://www.linkedin.com/in/pete-kuzma
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -164,7 +165,7 @@ footer:
       # URL:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https//www.linkedin.com/in/pete-kuzma"
+      url: "https://www.linkedin.com/in/pete-kuzma"
 # checking if I can make text wide
 #classes: wide
 
