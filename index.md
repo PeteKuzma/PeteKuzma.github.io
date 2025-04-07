@@ -15,4 +15,5 @@ To achieve my research goals, I utilise statistical methods and tools to mine la
 I also play key roles within large international collaborations on the upcoming survey instruments 4MOST, PFS and WEAVE. 
 
 For more information, explore this website!
+
 ![Distant structures expected based on accretion event orbits](/assets/images/peach-cat-construction-worker.gif)
