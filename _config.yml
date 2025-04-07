@@ -138,8 +138,8 @@ author:
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
     - label: "LinkedIn"
-      icon:  "fa-brands fa-linkedin"
-      URL:  "www.linkedin.com/in/pete-kuzma"
+      icon:  "fab fa-fw fa-linkedin"
+      URL:  "https://www.linkedin.com/in/pete-kuzma"
 
 # Site Footer
 footer:
@@ -164,7 +164,7 @@ footer:
       # URL:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "www.linkedin.com/in/pete-kuzma"
+      url: "https//www.linkedin.com/in/pete-kuzma"
 # checking if I can make text wide
 #classes: wide
 
