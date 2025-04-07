@@ -162,6 +162,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # URL:
+    - label: "Linked In"
+      icon: "fab fa-fw fa-linkedin"
+      URL: "www.linkedin.com/in/pete-kuzma"
 # checking if I can make text wide
 #classes: wide
 
