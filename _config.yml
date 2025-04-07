@@ -158,7 +158,10 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      # URL:
+# checking if I can make text wide
+classes: wide
+
 
 
 # Reading Files
