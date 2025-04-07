@@ -119,7 +119,7 @@ author:
   location         : "Tokyo, Japan"
   email            : "pete.kuzma@nao.ac.jp"
   linkedin         : https://www.linkedin.com/in/pete-kuzma
-  github           : https://github.com/PeteKuzma 
+  github           : https://www.github.com/PeteKuzma 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -135,7 +135,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/PeteKuzma"
+       URL: "https://www.github.com/PeteKuzma"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
