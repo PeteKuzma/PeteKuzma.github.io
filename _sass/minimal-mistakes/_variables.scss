@@ -6,10 +6,7 @@
    Typography
    ========================================================================== */
 
-$doc-font-size: 16px !default;
-$doc-font-size-medium: $doc-font-size * 1.125 !default;
-$doc-font-size-large: $doc-font-size * 1.25 !default;
-$doc-font-size-x-large: $doc-font-size * 1.375 !default;
+$doc-font-size: 16 !default;
 
 /* paragraph indention */
 $paragraph-indent: false !default; // true, false (default)
@@ -25,6 +22,7 @@ $monospace: Monaco, Consolas, "Lucida Console", monospace !default;
 $sans-serif-narrow: $sans-serif !default;
 $helvetica: Helvetica, "Helvetica Neue", Arial, sans-serif !default;
 
+
 /* serif typefaces */
 $georgia: Georgia, serif !default;
 $times: Times, serif !default;
@@ -36,15 +34,18 @@ $global-font-family: $sans-serif !default;
 $header-font-family: $sans-serif !default;
 $caption-font-family: $serif !default;
 
+$fscale: 1em;
+
 /* type scale */
-$type-size-1: 2.441em !default; // ~39.056px
-$type-size-2: 1.953em !default; // ~31.248px
-$type-size-3: 1.563em !default; // ~25.008px
-$type-size-4: 1.25em !default; // ~20px
-$type-size-5: 1em !default; // ~16px
-$type-size-6: 0.75em !default; // ~12px
-$type-size-7: 0.6875em !default; // ~11px
-$type-size-8: 0.625em !default; // ~10px
+$type-size-1:  $fscale * 2.441 !default; // ~39.056px
+$type-size-2:  $fscale * 1.953 !default; // ~31.248px
+$type-size-3:  $fscale * 1.563 !default; // ~25.008px
+$type-size-4:  $fscale * 1.250 !default; // ~20px
+$type-size-5:  $fscale * 1.000 !default; // ~16px
+$type-size-55: $fscale * 0.870 !default; // ~14px?
+$type-size-6:  $fscale * 0.750 !default; // ~12px
+$type-size-7:  $fscale * 0.687 !default; // ~11px
+$type-size-8:  $fscale * 0.625 !default; // ~10px
 
 /* headline scale */
 $h-size-1: 1.563em !default; // ~25.008px
@@ -152,15 +153,15 @@ $medium: 768px !default;
 $medium-wide: 900px !default;
 $large: 1024px !default;
 $x-large: 1280px !default;
-$max-width: $x-large !default;
+$max-width: $x-large+200px !default;
 
 /*
    Grid
    ========================================================================== */
 
 $right-sidebar-width-narrow: 200px !default;
-$right-sidebar-width: 300px !default;
-$right-sidebar-width-wide: 400px !default;
+$right-sidebar-width: 200px !default;
+$right-sidebar-width-wide: 200px !default;
 
 /*
    Other
