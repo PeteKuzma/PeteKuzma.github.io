@@ -1,5 +1,6 @@
 ---
 layout: single
+classes: wide
 title: CV
 permalink: /CV/
 author_profile: true
