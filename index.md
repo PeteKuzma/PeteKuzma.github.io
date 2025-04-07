@@ -1,5 +1,6 @@
 ---
 layout: archive
+classes: wide
 title: "Welcome!"
 permalink: / 
 author_profile: true
