@@ -12,6 +12,11 @@ The Milky Way has not always been the size it currently is. Much like humans, it
 {% include video width="480" height="320" id="61-Mfi484fQ" provider="youtube" %}
 
 
-## Public Outreach - "Indigenous Australian Astronomy"
-The First People of Australia have a connection to the land which is not well understood. Their methods for using the stars to help govern their way of life are truely amazing, and their oral traditions and practices place them as one of the first astromers in the world. As an Australian, I believe all should know more about the First People of Australia and I present only a snapshot of their values in this presentation. 
-#{% include video width="480" height="320" id="61-Mfi484fQ" provider="youtube" %}
+## "Indigenous Australian Astronomy" - 
+The First People of Australia have a connection to the land which is not well understood. Their methods for using the stars to help govern their way of life are truely amazing, and their oral traditions and practices place them as one of the first astronomers in the world. As an Australian, I believe all should know more about the First People of Australia, and I present only a snapshot of their ways in this presentation. 
+{% include video width="480" height="320" id="VwHVdH9VIlE" provider="youtube" %}
+
+## CSI: Space - Physics in the Pub
+Talking in a pub about science is an absolutely wonderful experience. Put a drink in the audience's (or my) hand and the science discussion can flow like no other. The below video is just one example of my presentations at pub talks (others include Astronomy on Tap, and Nerd Nite). Warning, as it is in the pub, this talk contains swearing.
+{% include video width="480" height="320" id="tghdecYUk_k" provider="youtube" %}
+
