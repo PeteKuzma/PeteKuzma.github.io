@@ -5,9 +5,9 @@ title: "Welcome!"
 permalink: / 
 author_profile: true
 ---
+Under construction!\
+![Distant structures expected based on accretion event orbits](/assets/images/peach-cat-construction-worker.gif){: width="200" }\
 
-HOME PAGE
-Under construction! 
 ## About
 I am an Astronomer and Data Scientist currently based as the National Astronomical Observatory of Japan (NAOJ). My research has focused on galactic archaeology, studying the outermost regions of our galaxy to understand how the Milky Way formed. I focus primarily on globular star clusters, tightly compact groups of stars that are amongst the oldest objects in the universe. 
 
@@ -17,4 +17,4 @@ I also play key roles within large international collaborations on the upcoming 
 
 For more information, explore this website!
 
-![Distant structures expected based on accretion event orbits](/assets/images/peach-cat-construction-worker.gif)
+
