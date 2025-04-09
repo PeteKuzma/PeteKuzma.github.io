@@ -1,1 +1,12 @@
 
+---
+layout: default
+title: National Astronomical Observatory of Japan Scientific Colloquium
+permalink: /NAOJ_coll.md/
+---
+
+
+<iframe src="/assets/Kuzma_Colloquium.pdf" width="100%" height="600px">
+    This browser does not support PDFs. Please download the PDF to view it: 
+    <a href="/assets/Kuzma_Colloquium.pdf">Download PDF</a>.
+</iframe>
