@@ -1,8 +1,10 @@
 
 ---
-layout: default
-title: National Astronomical Observatory of Japan Scientific Colloquium
-permalink: /NAOJ_coll.md/
+layout: single
+classes: wide
+title: "National Astronomical Observatory of Japan Scientific Colloquium"
+permalink: /NAOJ_coll/
+author_profile: true
 ---
 
 
