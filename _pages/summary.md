@@ -10,7 +10,39 @@ Under construction!
 
 [Distant structures expected based on accretion event orbits](/assets/images/peach-cat-construction-worker.gif){: width="200" }\
 
-## <a id="Pris_wCen"></a>[*A pristine view of galactic globular clusters and their peripheries: Omega Centauri*]
+new lines\
+new lines\new lines\
+new lines\
+new lines\
+new lines\new lines\
+new lines\new lines\
+new lines\new lines\
+new lines\new lines\
+new lines\new lines\
+new lines\new lines\
+new lines\new lines\
+new lines\new lines\
+new lines\new lines\
+new lines\new lines\
+new lines\new lines\
+new lines\new lines\
+new lines\new lines\
+new lines\new lines\
+new lines\new lines\
+new lines\new lines\
+new lines\new lines\
+new lines\new lines\
+new lines\new lines\
+new lines\new lines\
+new lines\new lines\
+new lines\new lines\
+new lines\new lines\
+new lines\new lines\
+new lines\new lines\
+new lines\new lines\
+new lines\new lines\
+new lines\
+## </a>[*A pristine view of galactic globular clusters and their peripheries: Omega Centauri*]
 
 [*Kinematics of metallicity populations in Omega Centauri using Gaia Focused Product Release and Hubble Space Telescope*]
 
