@@ -1,7 +1,7 @@
 ---
 layout: single
 classes: wide
-title: "IAU 395, 2024 - A Pristine view"
+title: "IAU 395, 2024 - A Pristine Look at Extended Globular Cluster Structure"
 permalink: /poster_IAU2024/
 author_profile: true
 ---
