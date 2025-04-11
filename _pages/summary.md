@@ -6,7 +6,7 @@ author_profile: true
 ---
 Under construction!
 
-[Image](/assets/images/peach-cat-construction-worker.gif){: width="200" }\
+![Image](/assets/images/peach-cat-construction-worker.gif){: width="200" }
 
 # <a id="PriswCen"></a>[*A pristine view of galactic globular clusters and their peripheries: Omega Centauri*](https://arxiv.org/pdf/2502.01135)
 To come: 
