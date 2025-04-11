@@ -5,8 +5,7 @@ permalink: /summary/
 author_profile: true
 ---
 Under construction!
-[Jump to My Cool Section](#my-cool-section)
-
+[Go to Cool Stuff Section](#coolstuff)
 
 [Distant structures expected based on accretion event orbits](/assets/images/peach-cat-construction-worker.gif){: width="200" }\
 
@@ -42,7 +41,11 @@ new lines\new lines\
 new lines\new lines\
 new lines\new lines\
 new lines\
-## </a>[*A pristine view of galactic globular clusters and their peripheries: Omega Centauri*]
+## <a id="coolstuff"></a>My Cool Section
+<h2 id="my-cool-section">[*A pristine view of galactic globular clusters and their peripheries: Omega Centauri*](https://ui.adsabs.harvard.edu/abs/2022MNRAS.512..315K/abstract)</h2>
+
+
+ [*A pristine view of galactic globular clusters and their peripheries: Omega Centauri*]
 
 [*Kinematics of metallicity populations in Omega Centauri using Gaia Focused Product Release and Hubble Space Telescope*]
 
