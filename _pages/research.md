@@ -15,6 +15,6 @@ For more in-depth information, follow the links below.
 [Publication List](/publications/)\
 [Recorded talks](/talks/)\
 [Talk slides](/slides)\
-[Posters](/posters/)\
+[Posters](/posters/)
 
 Additionally, I have mentored, taught and supervised undergraduate and PhD students, and both led and had senior roles in large multinational technical groups, all working towards completing new scientific projects and surveys. These all will commence operations beginning in 2025, and it is exciting to see the fruits of all the collective labour beginning to bloom.
