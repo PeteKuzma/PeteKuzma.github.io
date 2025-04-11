@@ -8,7 +8,7 @@ author_profile: true
 
 This poster demonstrates how statistical selections such as Gaussian distributions and cross-filter analysis, can identify faint signals in big data.
 
-<iframe src="/assets/m2pposter.pdf" width="100%" height="800px">
+<iframe src="/assets/m2poster.pdf" width="100%" height="800px">
     This browser does not support PDFs. Please download the PDF to view it: 
-    <a href="/assets/KPoster.pdf">Download PDF</a>.
+    <a href="/assets/m2poster.pdf">Download PDF</a>.
 </iframe>
