@@ -20,7 +20,7 @@ To come:
 - Figures demonstration
 - Any relevant code.
 
-# <a id="4mostSC"></a>[*Stellar Clusters in 4MOST](https://www.eso.org/sci/publications/messenger/archive/no.190-mar23/messenger-no190-13-16.pdf)
+# <a id="4mostSC"></a>[Stellar Clusters in 4MOST](https://www.eso.org/sci/publications/messenger/archive/no.190-mar23/messenger-no190-13-16.pdf)
 To come: 
 - Description of techniques used
 - Figures demonstration
