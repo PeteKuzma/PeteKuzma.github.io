@@ -9,7 +9,7 @@ Under construction!\
 ![Distant structures expected based on accretion event orbits](/assets/images/peach-cat-construction-worker.gif){: width="200" }
 
 ## About
-I am an Astronomer and Data Scientist currently based at the National Astronomical Observatory of Japan (NAOJ). My research has focused on galactic archaeology, studying the outermost regions of our galaxy to understand how the Milky Way formed. I focus primarily on globular star clusters, tightly compact groups of stars that are amongst the oldest objects in the universe. 
+I am an Astronomer and Data Scientist currently based at the Institute for Astronomy, part of the University of Edinburgh. My research has focused on galactic archaeology, studying the outermost regions of our galaxy to understand how the Milky Way formed. I focus primarily on globular star clusters, tightly compact groups of stars that are amongst the oldest objects in the universe. 
 
 To achieve my research goals, I utilise statistical methods and tools to mine large-scale datasets for faint signals and bring those signals to the surface. These typically involve identifying hundreds of objects within datasets of over a billion entries.
 
